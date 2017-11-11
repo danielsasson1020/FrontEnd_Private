@@ -1,2 +1,6 @@
 # FrontEnd_Private
-front end projects (CSS, HTML)
+
+Responsive page with authentication details: 
+ - User Name
+ - Password
+
